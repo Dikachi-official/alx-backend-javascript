@@ -1,0 +1,27 @@
+# javascript
+node_modules/
+
+# # Python
+# *.pyc
+# __pycache__/
+# venv/
+# *.env
+
+# IDE/Editor
+.vscode/
+.idea/
+
+
+# Logs
+*.log
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# Environ[B[B
+
+
+
