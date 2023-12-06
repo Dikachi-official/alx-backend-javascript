@@ -1,6 +1,6 @@
 # TypeScript
 
-This project contains tasks for learning to use TypeScript.
+<h2>This project contains tasks for learning to use TypeScript.</h2>
 
 ## Tasks To Complete
 
